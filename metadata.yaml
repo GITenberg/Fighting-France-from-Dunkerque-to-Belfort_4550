@@ -1,0 +1,36 @@
+_repo: Fighting-France-from-Dunkerque-to-Belfort_4550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: American novelist Edith Wharton was living in Paris when World War I
+  broke out. She was one of the few foreigners allowed to travel to the front lines,
+  where she visited hospitals, ravaged villages, and trenches. Fighting France describes
+  these trips taken in 1914 and 1915, and celebrates the indomitable spirit of the
+  French people.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- France'
+- GITenberg
+title: Fighting France, from Dunkerque to Belfort
+url: http://www.gutenberg.org/ebooks/4550
