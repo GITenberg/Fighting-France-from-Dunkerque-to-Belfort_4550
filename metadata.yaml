@@ -1,5 +1,8 @@
 _repo: Fighting-France-from-Dunkerque-to-Belfort_4550
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -18,6 +21,8 @@ description: American novelist Edith Wharton was living in Paris when World War 
   where she visited hospitals, ravaged villages, and trenches. Fighting France describes
   these trips taken in 1914 and 1915, and celebrates the indomitable spirit of the
   French people.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4550#Fighting-France-from-Dunkerque-to-Belfort
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
